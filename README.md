@@ -1,27 +1,20 @@
-# package_name
+# Dio_package_house_rocket_project
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package Dio_package_house_rocket_project is used to:
+	- house_rocket_project
+	
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Dio_package_house_rocket_project
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
+pip install Dio_package_house_rocket_project
 ```
 
 ## Author
-My_name
+Francisco Moriya
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
